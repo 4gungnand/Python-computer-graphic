@@ -1,4 +1,2 @@
 # Python-computer-graphic
-Python programs to generate different objects (Mainly polygons)
-## Libraries
-turtle, matplotlib, PIL, etc.
+Python programs to generate different 2D / 3D objects (Mainly polygons)
